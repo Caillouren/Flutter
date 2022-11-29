@@ -1,4 +1,4 @@
-# DSI_FLUTTER
+# Dsi_Flutter
 Repositório voltado para a disciplina de DSI.
 
 Linguagem: Dart
